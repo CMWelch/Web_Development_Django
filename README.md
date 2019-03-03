@@ -1,5 +1,5 @@
 # Web_Development
-Various Web_Development stuff
+Various Web Development stuff
 
 This is a repository of my personal projects for Web Development. Currently there is no backend stuff yet. I am learning the Django Framework to start off in the world of backend technologies. I have recently learned Python and wanted to challenge myself with my new skill. Django seemed like a perfect way for me to start learning web development and incorporate a new language.
 
