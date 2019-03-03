@@ -1,0 +1,38 @@
+body {
+  background-color: #001630;
+  border-right: 70px solid #02ccbe;
+  border-left: 70px solid #02ccbe;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  margin: auto;
+
+}
+
+h1, p, h2, form {
+  /*font-family: 'Montserrat', sans-serif;*/
+
+  color: white;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 10px;
+}
+
+input {
+  height: 50px;
+  width: 30%;
+}
+input[type=submit] {
+
+  border-radius: 40px;
+  width: 20%;
+  height: 125px;
+  background-color: orange;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
