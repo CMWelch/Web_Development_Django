@@ -7,7 +7,6 @@ function clearB()
     boxes[i].textContent = "";
   }
 }
-restart.addEventListener("click", clearB)
 
 function bContent()
 {
@@ -19,12 +18,13 @@ function bContent()
   {
     this.textContent = "O";
   }
-
   else
   {
     this.textContent = '';
   }
 }
+
+restart.addEventListener("click", clearB)
 
 for(var i = 0; i < boxes.length; i++)
 {
