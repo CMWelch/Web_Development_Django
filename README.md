@@ -7,6 +7,7 @@ Quick Summary of Projects
 1. Two_Spectrum: Simple HTML and CSS site created with tables
 2. Startup_FrontEnd: More in depth Front End that asks for a form submission to a thank you page with CSS styling.
 3. Coffee Lovers: Front End Only that uses Bootstrap as it's design Framework
+4. TicTacToe: Simple game implemented with JavaScript
 
 Summary of what I am working on now
 1. Finishing up understanding of Bootstrap Framework
